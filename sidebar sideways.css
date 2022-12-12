@@ -1,0 +1,14 @@
+.view-actions {
+    writing-mode: vertical-lr;
+    border-right: 1px solid var(--background-secondary-alt);
+    border-left: 2px solid var(--background-secondary-alt);
+    border-top: none;
+    border-bottom: 10px solid var(--background-secondary-alt);
+    height: auto;
+    width: var(--header-width);
+    position: fixed;
+    left: 0;
+    top: 4;
+    bottom: 0;
+  }
+  
